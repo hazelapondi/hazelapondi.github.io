@@ -158,3 +158,6 @@ button {
 button a{
   color:white;
 }
+button a:link {
+  text-decoration: none;
+}
