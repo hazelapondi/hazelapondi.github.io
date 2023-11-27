@@ -4,7 +4,7 @@
 }
 
 body {
-    font-family: 'Noto Sans', sans-serif;
+    font-family: sans-serif;
     background: #f6f6f7;
     color: #001f3f;
     padding: 10px;
@@ -14,7 +14,7 @@ body {
 .header {
     padding: 30px;
     text-align: center;
-    background-color: #caebf2;
+    background-color: #e3e3e5;
 }
 #name #text{
     z-index: 100;
@@ -99,7 +99,7 @@ body {
     width: 100%;
 }
 h1, h2, h3, h4 {
-	font-family: 'Roboto Mono', monospace;
+	font-family: sans serif;
 }
 .container {
 	max-width: 840px;
@@ -146,7 +146,7 @@ hr {
 button {
   background-color: #0d1a68;
   border: none;
-  color: #001f3f;
+  color: #f2f2f2;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
